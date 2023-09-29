@@ -1,0 +1,9 @@
+[Unit]
+Description=Blue2Cast HardwareID Provider
+
+[Service]
+Type=notify
+ExecStart=/usr/sbin/testapp
+
+[Install]
+WantedBy=multi-user.target

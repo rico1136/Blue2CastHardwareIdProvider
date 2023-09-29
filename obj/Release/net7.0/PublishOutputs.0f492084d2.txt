@@ -8,6 +8,7 @@ D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Relea
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.Extensions.Configuration.Binder.dll
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.Extensions.Hosting.dll
+D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.Extensions.Hosting.Systemd.dll
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.Extensions.Hosting.WindowsServices.dll
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\publish\Microsoft.Extensions.Options.dll

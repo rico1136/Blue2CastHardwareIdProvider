@@ -2,11 +2,11 @@ namespace App.WindowsService;
 
 public sealed class LinuxBackgroundService : BackgroundService
 {
-	private readonly ILogger<WindowsBackgroundService> _logger;
+	private readonly ILogger<LinuxBackgroundService> _logger;
 	public static string ApiCommand { get; set; } = "no command";
 
 	public LinuxBackgroundService(
-		ILogger<WindowsBackgroundService> logger) =>
+		ILogger<LinuxBackgroundService> logger) =>
 		(_logger) = ( logger);
 
 	protected override async Task ExecuteAsync(CancellationToken stoppingToken)

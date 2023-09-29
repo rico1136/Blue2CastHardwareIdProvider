@@ -31,3 +31,4 @@ D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\obj\Relea
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\obj\Release\net7.0\Blue2CastHardwareProvider.pdb
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\obj\Release\net7.0\Blue2CastHardwareProvider.genruntimeconfig.cache
 D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\obj\Release\net7.0\ref\Blue2CastHardwareProvider.dll
+D:\01_Observator\01_Blue2Cast\WindowsService\Blue2CastHardwareProvider\bin\Release\net7.0\Microsoft.Extensions.Hosting.Systemd.dll

@@ -1,5 +1,6 @@
 using App.WindowsService;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.Hosting.Systemd;
 using Microsoft.Extensions.Logging.Configuration;
 using Microsoft.Extensions.Logging.EventLog;
 using System.Runtime.InteropServices;
@@ -21,7 +22,8 @@ if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
 }
 else if (RuntimeInformation.IsOSPlatform(OSPlatform.Linux))
 {
-
+	builder.Host.UseSystemd();
+	builder.Services.AddHostedService<LinuxBackgroundService>();
 }
 else
 {

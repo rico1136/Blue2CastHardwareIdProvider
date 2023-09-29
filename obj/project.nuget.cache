@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NxH1WKqYMVyBkWohwKF2yzeXTETx7T8bz/g6sJ0wAZK/ZBUwvfeYoQaE9LfKu+xiyE8u5Q4Au+XFatK4FDBxcw==",
+  "dgSpecHash": "5tglX+JYls9WSVv16g3LHdEZMaHcpog7WhXNB/KEHN9Bugn0V/5nqMWc5cZa911VJMc4cKcXKmN2Cq5U3B0Syg==",
   "success": true,
   "projectFilePath": "D:\\01_Observator\\01_Blue2Cast\\WindowsService\\Blue2CastHardwareProvider\\Blue2CastHardwareProvider.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
     "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.1\\microsoft.extensions.hosting.7.0.1.nupkg.sha512",
     "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.hosting.systemd\\7.0.0\\microsoft.extensions.hosting.systemd.7.0.0.nupkg.sha512",
     "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.hosting.windowsservices\\7.0.1\\microsoft.extensions.hosting.windowsservices.7.0.1.nupkg.sha512",
     "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\rzethof\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
