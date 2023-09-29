@@ -3,7 +3,7 @@ Description=Blue2Cast HardwareID Provider
 
 [Service]
 Type=notify
-ExecStart=/usr/sbin/testapp
+ExecStart=/home/azureuser/HardwareIdProvider/Blue2CastHardwareIdProvider/bin/Release/net7.0/Blue2CastHardwareProvider.dll
 
 [Install]
 WantedBy=multi-user.target
