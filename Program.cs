@@ -8,15 +8,14 @@ using System.Runtime.InteropServices;
 //HostApplicationBuilder builder = Host.CreateApplicationBuilder(args);
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddWindowsService(options =>
-{
-	options.ServiceName = ".NET Joke Service";
-});
-
 if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
 {
 	LoggerProviderOptions.RegisterProviderOptions<
 	EventLogSettings, EventLogLoggerProvider>(builder.Services);
+	builder.Services.AddWindowsService(options =>
+	{
+		options.ServiceName = ".NET Joke Service";
+	});
 
 	builder.Services.AddHostedService<WindowsBackgroundService>();
 }
